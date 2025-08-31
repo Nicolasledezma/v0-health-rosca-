@@ -1,43 +1,4 @@
 
-
-
-# Health ROSCA frontend
-
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ledezmanicolas321-7784s-projects/v0-health-rosca-frontend)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/ZuCViwRL4FE)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/ledezmanicolas321-7784s-projects/v0-health-rosca-frontend](https://vercel.com/ledezmanicolas321-7784s-projects/v0-health-rosca-frontend)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/ZuCViwRL4FE](https://v0.app/chat/projects/ZuCViwRL4FE)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
-## 🛣️ Roadmap — Health ROSCA
-# 🩺 Health ROSCA (V0)
-
-A Web3 platform for **community savings in stablecoins**, designed to support **medical emergencies** in a secure, transparent, and decentralized way.  
-
----
-
 ## ❓ What is Health ROSCA?
 
 Health ROSCA modernizes the traditional **Rotating Savings and Credit Association (ROSCA)** model, bringing it into the **Web3 ecosystem**.  
